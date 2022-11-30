@@ -1,10 +1,29 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="dev.medtracker.client.MainActivity">
+    tools:context="dev.medtracker.client.presentation.MainActivity">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:title="Home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/medicationFragment"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_medicine"
+        android:title="Medicine"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/profileFragment"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"
         app:showAsAction="never" />
 </menu>

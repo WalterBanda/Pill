@@ -9,4 +9,21 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Jerim Kaura</string>
+    <string name="user_email">johndoe@gmail.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_medication">My Medication</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="medication_history">Medication History</string>
+    <string name="logout">LOGOUT</string>
+    <string name="edit_photo">Edit Photo</string>
+    <string name="fill_in_the_details_to_updated">Fill in the details to updated</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address_name">Email Address Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="success">Success</string>
+    <string name="back">Back</string>
 </resources>
