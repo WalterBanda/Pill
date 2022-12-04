@@ -35,4 +35,6 @@
     <string name="enter_new_password">Enter new password</string>
     <string name="create_a_new_password">Create a New Password</string>
     <string name="enter_your_new_password">Enter your new password</string>
+    <string name="your_profile_is_successfully_updated">Your Profile is successfully updated</string>
+    <string name="operation_success">Operation Success</string>
 </resources>
