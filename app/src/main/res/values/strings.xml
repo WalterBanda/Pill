@@ -26,4 +26,7 @@
     <string name="update_profile">Update Profile</string>
     <string name="success">Success</string>
     <string name="back">Back</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="recover_your_account_password">Recover your account password</string>
+    <string name="email_address">Email Address</string>
 </resources>
