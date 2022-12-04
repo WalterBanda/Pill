@@ -17,15 +17,15 @@ class EditProfileFragment : Fragment(R.layout.fragment_edit_profile) {
         val context = requireContext()
         binding = FragmentEditProfileBinding.bind(view)
         binding.updateProfile.setOnClickListener {
-            launchSuccessDialog(context)
+            launchSuccessDialog(context, R.layout.dialog_profile_update_success)
         }
     }
 }
 
 
-fun launchSuccessDialog(context: Context) {
+fun launchSuccessDialog(context: Context, layout: Int) {
     val dialog = Dialog(context)
-    dialog.setContentView(R.layout.dialog_profile_update_success)
+    dialog.setContentView(layout)
     dialog.setCancelable(false)
     dialog.setCanceledOnTouchOutside(false)
     dialog.show()
