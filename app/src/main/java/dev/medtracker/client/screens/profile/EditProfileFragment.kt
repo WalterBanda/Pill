@@ -25,7 +25,7 @@ class EditProfileFragment : Fragment(R.layout.fragment_edit_profile) {
 
 fun launchSuccessDialog(context: Context) {
     val dialog = Dialog(context)
-    dialog.setContentView(R.layout.custom_dialog)
+    dialog.setContentView(R.layout.dialog_profile_update_success)
     dialog.setCancelable(false)
     dialog.setCanceledOnTouchOutside(false)
     dialog.show()
