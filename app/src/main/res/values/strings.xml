@@ -39,4 +39,7 @@
     <string name="operation_success">Operation Success</string>
     <string name="your_password_is_succesfully_created">Your password is successfully created</string>
     <string name="btn_continue">Continue</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hi_welcome_">Hi, Welcome Back! 👋 </string>
+
 </resources>
