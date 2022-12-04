@@ -41,5 +41,7 @@
     <string name="btn_continue">Continue</string>
     <string name="sign_in">Sign In</string>
     <string name="hi_welcome_">Hi, Welcome Back! 👋 </string>
+    <string name="remember_me">Remember me</string>
+    <string name="password">Password</string>
 
 </resources>
