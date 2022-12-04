@@ -30,4 +30,9 @@
     <string name="recover_your_account_password">Recover your account password</string>
     <string name="email_address">Email Address</string>
     <string name="update_password">Update Password</string>
+    <string name="create_password">Create Password</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="create_a_new_password">Create a New Password</string>
+    <string name="enter_your_new_password">Enter your new password</string>
 </resources>
