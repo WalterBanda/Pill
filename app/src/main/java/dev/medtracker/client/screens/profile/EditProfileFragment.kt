@@ -1,4 +1,4 @@
-package dev.medtracker.client.presentation.profile
+package dev.medtracker.client.screens.profile
 
 import android.app.Dialog
 import android.content.Context

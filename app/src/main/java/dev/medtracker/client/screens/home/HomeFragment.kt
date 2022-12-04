@@ -1,4 +1,4 @@
-package dev.medtracker.client.presentation.home
+package dev.medtracker.client.screens.home
 
 import android.os.Bundle
 import android.view.View

@@ -1,4 +1,4 @@
-package dev.medtracker.client.presentation
+package dev.medtracker.client.screens
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
