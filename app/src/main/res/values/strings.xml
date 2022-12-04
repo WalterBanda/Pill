@@ -37,4 +37,6 @@
     <string name="enter_your_new_password">Enter your new password</string>
     <string name="your_profile_is_successfully_updated">Your Profile is successfully updated</string>
     <string name="operation_success">Operation Success</string>
+    <string name="your_password_is_succesfully_created">Your password is successfully created</string>
+    <string name="btn_continue">Continue</string>
 </resources>
