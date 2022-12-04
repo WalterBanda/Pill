@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/auth_nav_graph"
-    app:startDestination="@id/forgotPassword">
+    app:startDestination="@id/loginScreen">
 
 
     <fragment
@@ -15,5 +15,10 @@
         android:id="@+id/createPassword"
         android:name="dev.medtracker.client.auth.CreatePassword"
         android:label="fragment_create_password"
-        tools:layout="@layout/fragment_create_password" />
+        tools:layout="@layout/fragment_auth_create_password" />
+    <fragment
+        android:id="@+id/loginScreen"
+        android:name="dev.medtracker.client.auth.LoginScreen"
+        android:label="fragment_auth_login_screen"
+        tools:layout="@layout/fragment_auth_login_screen" />
 </navigation>
