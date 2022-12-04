@@ -11,7 +11,7 @@ import androidx.navigation.ui.setupWithNavController
 import dev.medtracker.client.R
 import dev.medtracker.client.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class ScreensActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
