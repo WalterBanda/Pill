@@ -1,4 +1,4 @@
-package dev.medtracker.client.presentation
+package dev.medtracker.client.screens
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -11,7 +11,7 @@ import androidx.navigation.ui.setupWithNavController
 import dev.medtracker.client.R
 import dev.medtracker.client.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class ScreensActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding

@@ -6,27 +6,27 @@
     app:startDestination="@id/homeFragment">
     <fragment
         android:id="@+id/editProfileFragment"
-        android:name="dev.medtracker.client.presentation.profile.EditProfileFragment"
+        android:name="dev.medtracker.client.screens.profile.EditProfileFragment"
         android:label="fragment_edit_profile"
         tools:layout="@layout/fragment_edit_profile" />
     <fragment
         android:id="@+id/homeFragment"
-        android:name="dev.medtracker.client.presentation.home.HomeFragment"
+        android:name="dev.medtracker.client.screens.home.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="dev.medtracker.client.presentation.settings.SettingsFragment"
+        android:name="dev.medtracker.client.screens.settings.SettingsFragment"
         android:label="fragment_settings"
         tools:layout="@layout/fragment_settings" />
     <fragment
         android:id="@+id/medicationFragment"
-        android:name="dev.medtracker.client.presentation.medication.MedicationFragment"
+        android:name="dev.medtracker.client.screens.medication.MedicationFragment"
         android:label="fragment_medication"
         tools:layout="@layout/fragment_medication" />
     <fragment
         android:id="@+id/profileFragment"
-        android:name="dev.medtracker.client.presentation.profile.ProfileFragment"
+        android:name="dev.medtracker.client.screens.profile.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" >
         <action

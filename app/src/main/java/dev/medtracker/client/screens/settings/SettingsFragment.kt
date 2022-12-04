@@ -1,10 +1,8 @@
-package dev.medtracker.client.presentation.settings
+package dev.medtracker.client.screens.settings
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
 import android.view.View
-import android.view.ViewGroup
 import dev.medtracker.client.R
 import dev.medtracker.client.databinding.FragmentSettingsBinding
 

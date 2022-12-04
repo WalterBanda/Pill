@@ -1,7 +1,6 @@
-package dev.medtracker.client.presentation.profile
+package dev.medtracker.client.screens.profile
 
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.NavHostFragment
