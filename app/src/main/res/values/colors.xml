@@ -7,4 +7,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="input_bg">#F6F8FE</color>
+    <color name="brand_alt">#F2A8A4</color>
 </resources>
