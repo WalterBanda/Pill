@@ -11,4 +11,9 @@
         android:name="dev.medtracker.client.auth.ForgotPassword"
         android:label="fragment_auth_forgot_password"
         tools:layout="@layout/fragment_auth_forgot_password" />
+    <fragment
+        android:id="@+id/createPassword"
+        android:name="dev.medtracker.client.auth.CreatePassword"
+        android:label="fragment_create_password"
+        tools:layout="@layout/fragment_create_password" />
 </navigation>
