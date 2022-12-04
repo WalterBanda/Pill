@@ -43,5 +43,7 @@
     <string name="hi_welcome_">Hi, Welcome Back! 👋 </string>
     <string name="remember_me">Remember me</string>
     <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
 
 </resources>
