@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/auth_nav_graph">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/auth_nav_graph"
+    app:startDestination="@id/forgotPassword">
 
 
-
+    <fragment
+        android:id="@+id/forgotPassword"
+        android:name="dev.medtracker.client.auth.ForgotPassword"
+        android:label="fragment_auth_forgot_password"
+        tools:layout="@layout/fragment_auth_forgot_password" />
 </navigation>
