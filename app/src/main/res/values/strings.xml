@@ -29,4 +29,14 @@
     <string name="forgot_password">Forgot Password</string>
     <string name="recover_your_account_password">Recover your account password</string>
     <string name="email_address">Email Address</string>
+    <string name="update_password">Update Password</string>
+    <string name="create_password">Create Password</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="create_a_new_password">Create a New Password</string>
+    <string name="enter_your_new_password">Enter your new password</string>
+    <string name="your_profile_is_successfully_updated">Your Profile is successfully updated</string>
+    <string name="operation_success">Operation Success</string>
+    <string name="your_password_is_succesfully_created">Your password is successfully created</string>
+    <string name="btn_continue">Continue</string>
 </resources>

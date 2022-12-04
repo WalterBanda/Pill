@@ -30,7 +30,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            android:contentDescription="@string/operation_success" />
 
         <LinearLayout
             android:id="@+id/linearLayout"
@@ -69,7 +70,8 @@
                 android:layout_marginVertical="5dp"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="Your Profile is successfully updated"
+                android:text="@string/your_profile_is_successfully_updated"
+                android:textColor="#546E7A"
                 android:textSize="12sp" />
 
             <Button
